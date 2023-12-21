@@ -1,3 +1,10 @@
+Fav foods:
 pizza
 burger
 pudding
+
+Fav movies:
+home alone
+king kong
+jungle book
+
